@@ -1,6 +1,13 @@
 # expodeveloper
 
 A new Flutter project.
+Features
+Add and categorize income and expenses.
+View spending summaries and financial reports.
+Set monthly budgets and savings goals.
+Track spending habits with visual charts.
+Responsive design for mobile and desktop use.
+
 
 ## Getting Started
 
