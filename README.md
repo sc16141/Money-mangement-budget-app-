@@ -7,6 +7,7 @@ View spending summaries and financial reports.
 Set monthly budgets and savings goals.
 Track spending habits with visual charts.
 Responsive design for mobile and desktop use.
+and manage the expendi
 
 
 ## Getting Started
